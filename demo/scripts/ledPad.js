@@ -10,10 +10,10 @@ var ledPad = (function(){
 			RADIUS:5
 		},
 		color = {
-			offColor:'#331111',
+			offColor:'#3301fd',
 			onColor:'#FF2222'
 		},
-		interval = 50, //sroll msg time interval
+		interval = 70, //sroll msg time interval
 		pixelsHeight,  //pixels count on vertical direction
 		pixelsWidth,   //pixels count on horizontal direction
 		context,       //canvas context

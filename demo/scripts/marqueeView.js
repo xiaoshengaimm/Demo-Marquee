@@ -198,7 +198,7 @@ var marquee = (function(){
 				bgColor = params.bg_color,
 				wColor = params.w_color;
 			if(!msg){
-				msg = "UC LABS";
+				msg = "Happy Birthday To HUI MIN. Warmest wish you all happiness, health and the finest things in your life.";
 			}
 			if(bgColor){
 				led.setOffColor(bgColor);
