@@ -10,7 +10,7 @@ var ledPad = (function(){
 			RADIUS:5
 		},
 		color = {
-			offColor:'#3301fd',
+			offColor:'#1401b1',
 			onColor:'#FF2222'
 		},
 		interval = 70, //sroll msg time interval
