@@ -1,4 +1,4 @@
-//modify by huangjs
+//modify by huangjs dd
 var marquee = (function(){
 	var touchX,
 		SLIP_START = 0.0,
